@@ -166,7 +166,7 @@ h1,h2,h3,.stat,.rstats b{letter-spacing:-.012em}.hero h1{letter-spacing:-.018em;
 .kp b{color:var(--bk,var(--b))}
 @media(max-width:640px){header .wrap{flex-wrap:nowrap;min-height:60px;padding-left:16px;padding-right:16px}nav{flex-wrap:nowrap;gap:6px}nav a:not(.ghost):not(.cta){display:none}nav a.cta{margin-left:0;padding:8px 14px}nav a.ghost{padding:8px 14px}.logo b{font-size:15px}}
 @media(min-width:1500px){.wrap{max-width:1320px}}
-@media(min-width:1920px){html{zoom:1.25}}
-@media(min-width:2400px){html{zoom:1.6}}
-@media(min-width:3000px){html{zoom:2}}
-@media(min-width:3600px){html{zoom:2.4}}
+@media(min-width:2200px){html{zoom:1.2}}
+@media(min-width:2800px){html{zoom:1.5}}
+@media(min-width:3400px){html{zoom:1.8}}
+@media(min-width:1500px){.hero h1{font-size:clamp(38px,5vw,68px)}}
