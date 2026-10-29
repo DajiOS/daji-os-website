@@ -164,3 +164,4 @@ h1,h2,h3,.stat,.rstats b{letter-spacing:-.012em}.hero h1{letter-spacing:-.018em;
 .cc input[type=color]{width:44px;height:38px;padding:2px;border-radius:10px;border:1px solid var(--line);background:rgba(0,0,0,.25);cursor:pointer}.cc input#wh{width:110px;font-family:ui-monospace,Menlo,monospace;text-transform:lowercase}
 .wlweb aside{color:var(--bt,#fff)}.wltop em,.wlphone em{color:var(--bt,#fff)}
 .kp b{color:var(--bk,var(--b))}
+@media(max-width:640px){header .wrap{flex-wrap:nowrap;min-height:60px;padding-left:16px;padding-right:16px}nav{flex-wrap:nowrap;gap:6px}nav a:not(.ghost):not(.cta){display:none}nav a.cta{margin-left:0;padding:8px 14px}nav a.ghost{padding:8px 14px}.logo b{font-size:15px}}
